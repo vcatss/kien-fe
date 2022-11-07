@@ -1,0 +1,23 @@
+[
+  {
+    "name": "chuyen-muc-id",
+    "path": "/chuyen-muc/:id?",
+    "component": "/Users/itvungtau/Desktop/Project/CRM.NEW/kien-fe/pages/chuyen-muc/_id.vue",
+    "chunkName": "pages/chuyen-muc/_id",
+    "_name": "_700cd7ea"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/itvungtau/Desktop/Project/CRM.NEW/kien-fe/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7e55b283"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "/Users/itvungtau/Desktop/Project/CRM.NEW/kien-fe/pages/_id.vue",
+    "chunkName": "pages/_id",
+    "_name": "_25a479ab"
+  }
+]

@@ -1,7 +1,9 @@
 <template>
   <div class="w-full flex flex-wrap justify-center border-b shadow-md">
     <header class="container flex w-full items-center">
-        <img class="h-16" src="/images/logo.png"/>
+        <NuxtLink to="/">
+            <img class="h-16" src="/images/logo.png"/>
+        </NuxtLink>
         <section class="flex-grow mx-0 md:mx-8">   
             <div class="flex">
                 <label for="voice-search" class="sr-only">Search</label>

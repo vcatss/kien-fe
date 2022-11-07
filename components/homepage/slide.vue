@@ -12,7 +12,7 @@
                 <div class="flex w-full">
                     <div class="flex-grow">
                         <div class="w-full grid grid-cols-3 gap-3 p-4">
-                            <div v-for="(item,index) in modelHover" :key="index" class="w-full rounded-lg border-r">
+                            <div v-for="(item,index) in modelHover" :key="index" class="w-full border-r">
                                 <span class="w-full flex-noshink">
                                     <div class="grid grid-cols-1 gap-1">
                                         <NuxtLink :to="`/chuyen-muc/${item.slug}`" class="text-blue-500 font-semibold">

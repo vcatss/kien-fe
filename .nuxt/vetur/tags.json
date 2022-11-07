@@ -1,0 +1,29 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "ProductCard": {
+    "description": "Auto imported from components/product/card.vue"
+  },
+  "HomepageAds": {
+    "description": "Auto imported from components/homepage/ads.vue"
+  },
+  "HomepageFooter": {
+    "description": "Auto imported from components/homepage/footer.vue"
+  },
+  "HomepageSearchBar": {
+    "description": "Auto imported from components/homepage/searchBar.vue"
+  },
+  "HomepageSlide": {
+    "description": "Auto imported from components/homepage/slide.vue"
+  },
+  "HomepageTopNav": {
+    "description": "Auto imported from components/homepage/topNav.vue"
+  },
+  "HomepageTopProduct": {
+    "description": "Auto imported from components/homepage/topProduct.vue"
+  }
+}
